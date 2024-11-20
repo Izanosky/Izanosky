@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Izan!</h1>
+<h1 align="center">Hi👋, I am Izan!</h1>
 
 <p align="center" width="150px"> I'm a Computer Science student at USAL with a strong interest in Machine Learning and its applications in solving real-world problems. <br>I’m always on the lookout to learn something new, whether it’s the latest ML techniques, fun coding tricks, or just exploring how tech can make life better. </p>
 
@@ -21,7 +21,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 
 ### :link: &nbsp;Connect with me
 
