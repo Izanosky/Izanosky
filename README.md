@@ -36,7 +36,6 @@
 <a href="https://x.com/_izanossky_"><img src="https://img.shields.io/badge/-X / Twitter-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
 </p>
 
----
 Credit: [DKNS-JCC](https://github.com/dkns-jcc)
         , and of course [Me](https://github.com/Izanosky)
 
