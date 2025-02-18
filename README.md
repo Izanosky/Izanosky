@@ -13,6 +13,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Izanosky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=Izanosky&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
