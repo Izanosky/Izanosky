@@ -36,6 +36,10 @@
 <a href="https://x.com/_izanossky_"><img src="https://img.shields.io/badge/-X / Twitter-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
 </p>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 Credit: [DKNS-JCC](https://github.com/dkns-jcc)
         , and of course [Me](https://github.com/Izanosky)
 
