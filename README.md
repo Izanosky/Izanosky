@@ -13,6 +13,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Izanosky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Izanosky/visits" />
+
+</div>
+
+###
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
