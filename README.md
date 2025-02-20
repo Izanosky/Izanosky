@@ -3,7 +3,7 @@
 <p align="center" width="150px"> I'm a Computer Science student at USAL with a strong interest in Machine Learning and its applications in solving real-world problems. <br>I’m always on the lookout to learn something new, whether it’s the latest ML techniques, fun coding tricks, or just exploring how tech can make life better. </p>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBtbXFwMGZnNDI1dnR6Ynp3M2gycnRqaDBxZzBkODI2MmtnaTdidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" width="300">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc204b2Y3cDhrdGt0bTQzc25udHp4dG8zY3RjbjJ5bjA5Z2hoa2dnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif" width="300">
 </p>
 
 ###
