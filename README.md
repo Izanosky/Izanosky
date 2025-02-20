@@ -39,7 +39,7 @@
 <a href="https://x.com/_izanossky_"><img src="https://img.shields.io/badge/-X / Twitter-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/{Izanosky}/{Izanosky}/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Izanosky/Izanosky/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
