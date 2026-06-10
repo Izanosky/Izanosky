@@ -32,7 +32,6 @@
 <a href="mailto:izanjc04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/_izanossky/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://leetcode.com/u/izanosky/"><img src="https://img.shields.io/badge/-Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://x.com/_izanossky_"><img src="https://img.shields.io/badge/-X / Twitter-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
 </p>
 
 ![snake gif](https://github.com/Izanosky/Izanosky/blob/output/github-snake-dark.svg)
