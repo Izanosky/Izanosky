@@ -34,11 +34,11 @@
 <a href="https://leetcode.com/u/izanosky/"><img src="https://img.shields.io/badge/-Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
-![snake gif](https://github.com/Izanosky/Izanosky/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Izanosky/Izanosky/output/github-snake-dark.svg)
 
 ###
 
 Credit: [DKNS-JCC](https://github.com/dkns-jcc)
         , and of course [Me](https://github.com/Izanosky)
 
-Last Updated On: 25/11/2025
+Last Updated On: 26/09/2026
